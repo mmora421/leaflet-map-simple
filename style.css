@@ -1,4 +1,9 @@
 #map-title {
-   font-family: "Lobster", sans-serif;
+   font-family: "Lobster", cursive;
    color: #FFA500;
+}
+.custom-popup {
+   font-family: "Lobster", cursive;
+   color: #FFA500;
+   font-size: 18px;
 }
