@@ -1,5 +1,5 @@
 #my-button {
-      position: relative;
+      position: absolute;
       margin-top: 10px;
       margin-left: 500px;
       font-family: Lobster, cursive;
@@ -7,4 +7,5 @@
       border: none;
       color: #33FF57;
       font-size: 16px;
+      z-index: 5000;
 }
